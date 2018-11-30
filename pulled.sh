@@ -1,1 +1,2 @@
-git pull https://github.com/kfrank/gitbit.git master
+cd /Users/klarefrank/Dev/gitbit
+git pull origin master
